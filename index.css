@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 40px 10px;
+    text-align: center;
+    margin: 30px 10px;  
+}
+a{
+    border-bottom: 2px solid blue;
+}
+.fa{
+    color: #4183d7;
+}
+.box{
+    padding: 5px 0px;
+}
+p{
+    font-size: 14px;
+}
